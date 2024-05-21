@@ -9,3 +9,4 @@ My leetcode task repository
 | 1480 | [Running Sum of 1D Array](Running_Sum_of_1D_Array.py) | Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]). | 18ms |  | done  | https://leetcode.com/problems/running-sum-of-1d-array/ |
 | 383 | [Ransom Note](Ransom_Note.py) | Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise. | 26ms | 11.75MB | done  | https://leetcode.com/problems/running-sum-of-1d-array/ |
 | 1 | [Two Sum](Two_Sum.py) | Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. | 39ms | 12.46MB | done  | https://leetcode.com/problems/two-sum/ |
+| 78 | [Subsets](Subsets.py) | Given an integer array nums of unique elements, return all possible subsets (the power set). | 22ms | 11.89MB | done  | https://leetcode.com/problems/subsets/ |
