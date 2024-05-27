@@ -10,3 +10,4 @@ My leetcode task repository
 | 383 | [Ransom Note](Ransom_Note.py) | Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise. | 26ms | 11.75MB | done  | https://leetcode.com/problems/running-sum-of-1d-array/ |
 | 1 | [Two Sum](Two_Sum.py) | Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. | 39ms | 12.46MB | done  | https://leetcode.com/problems/two-sum/ |
 | 78 | [Subsets](Subsets.py) | Given an integer array nums of unique elements, return all possible subsets (the power set). | 22ms | 11.89MB | done  | https://leetcode.com/problems/subsets/ |
+| 525 | [Duplicate_Zeros](Duplicate_Zeros.py) | Given a fixed-length integer array arr, duplicate each occurrence of zero, shifting the remaining elements to the right. | 33ms | 12.1MB | done  | https://leetcode.com/explore/learn/card/fun-with-arrays/525 |
