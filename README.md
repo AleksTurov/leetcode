@@ -1,7 +1,7 @@
 # leetcode
 My leetcode task repository
 | # | task | discription | runtime  | memory | Status | link |
-| :---------------------- |:---------------------- | :---------------------- | :---------------------- | :---------------------- |:---------------------- |:---------------------- |
+| :---------------------- |:---------------------- | :------------------------------------- | :---------------------- | :---------------------- |:---------------------- |:---------------------- |
 | 876 | [Middle of the Linked List](Middle_of_the_Linked_List.py) | Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node. | 15ms |  |done  | https://leetcode.com/problems/middle-of-the-linked-list/ |
 | 1342 | [Number of Steps to Reduce a Number to Zero](Number_of_Steps_to_Reduce_a_Number_to_Zero.py) | Given an integer num, return the number of steps to reduce it to zero. | 12ms |  | done  | https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ |
 | 412 | [Fizz Buzz](Fizz_Buzz.py) | Given an integer n, return a string array answer (1-indexed). | 18ms |  | done  | https://leetcode.com/problems/fizz-buzz/ |
