@@ -4,7 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        
+        from collections import defaultdict
+
         count = defaultdict(int)
         good_pairs = 0
         
@@ -17,3 +18,4 @@ class Solution(object):
 solution = Solution()   
 print(solution.numIdenticalPairs([1,2,3,1,1,3])) # 4
 print(solution.numIdenticalPairs([1,1,1,1])) # 6
+print(solution.numIdenticalPairs([1,2,1,1,2])) # 4

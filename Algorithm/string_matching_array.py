@@ -4,6 +4,7 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[str]
         """
+
         result = []
         for i, word1 in enumerate(words):
             for j, word2 in enumerate(words):
