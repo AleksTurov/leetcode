@@ -7,3 +7,4 @@
 | Algorithm | 182 |[Duplicate Emails](duplicate_emails.py) | Write a solution to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL. | 300ms O(N) | 67.45MB O(N) | done  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |
 | Algorithm | 378 |[Delete Duplicate Emails](deleted_duplicate_emails.py) | Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
  | 378ms O(NLogN) | 66.25MB O(1) | done  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) |
+ | Algorithm | 197 |[Rising Temperature](deleted_duplicate_emails.py) | Write a solution to find all dates' id with higher temperatures compared to its previous dates (yesterday). | 446ms O(NLogN) | 67.98MB O(N) | done  | [Rising Temperature](https://leetcode.com/problems/rising-temperature) |
