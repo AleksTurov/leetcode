@@ -10,4 +10,6 @@
 | Algorithm | 1108 |[Defanging an IP Address](defanging_ip_address.py) | Given a valid (IPv4) IP address, return a defanged version of that IP address.A defanged IP address replaces every period "." with "[.]". | 11ms O(N) | 12.26MB O(1) | done  | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) |
 | Algorithm | 1512 |[Number of Good Pairs](number_good_pairs.py) | Given an array of integers nums, return the number of good pairs. | 0ms O(N) | 12.45MB O(1) | done  | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) |
 | Algorithm | 2894 |[Divisible and Non-divisible Sums Difference](divisible_sums_difference.py) | You are given positive integers n and m. | 4ms O(N) | 12.29MB O(1) | done  | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) |
+| Algorithm | 35 |[Search Insert Position](search_insert_position.py) | Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. | 0ms O(N) | 18.54MB O(1) | done  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1834756232/) |
+
 
