@@ -13,6 +13,8 @@
 | Algorithm | 35 |[Search Insert Position](search_insert_position.py) | Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. | 0ms O(N) | 18.54MB O(1) | done  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1834756232/) |
 | Algorithm | 3423 |[Maximum Difference Between Adjacent Elements in a Circular Array](max_dif_element_circular_array.py) | Given a circular array nums, find the maximum absolute difference between adjacent elements. Note: In a circular array, the first and last elements are adjacent. | 1ms O(N) | 17.69MB O(1) | done  | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/submissions/1834776843/) |
 | Algorithm | 468 |[Validate IP Address](validate_ip_address.py) | Given a string queryIP, return "IPv4" if IP is a valid IPv4 address, "IPv6" if IP is a valid IPv6 address or "Neither" if IP is not a correct IP of any type. | 0ms O(1) | 18.21MB O(1) | done  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/) |
+| Algorithm | 1403 |[Minimum Subsequence in Non-Increasing Order](min_subsequence.py) | Given the array nums, obtain a subsequence of the array whose sum of elements is strictly greater than the sum of the non included elements in such subsequence. | 0ms O(1) | 17.89MB O(1) | done  | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/description/) |
+
 
 
 
