@@ -27,3 +27,9 @@
 |Arrays| 1929 | [Concatenation of Array](concatenation_array.py) | Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed). | 0ms O(1) |  12.54MB O(1) | done  | https://leetcode.com/problems/concatenation-of-array/|
 |Arrays| 1920 | [Build Array from Permutation](build_array_from_permutation.py) | Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it. | 5ms O(1) |  12.74MB O(1) | done  | https://leetcode.com/problems/build-array-from-permutation|
 |Arrays| 2011 | [Final Value of Variable After Performing Operations](final_value_variable_performing_operations.py) | There is a programming language with only four operations and one variable X: | 0ms O(N) |  12,35MB O(1) | done  | https://leetcode.com/problems/final-value-of-variable-after-performing-operations/|
+|Arrays| 14 | [Longest Common Prefix](longest_common_prefix.py) | Write a function to find the longest common prefix string amongst an array of strings. | 0ms O(Nlogn+M) |  17.88MB O(1) | done  | https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=array|
+|Arrays| 3242 | [Design Neighbor Sum Service](design_neighbor_sum_service.py) | You are given a n x n 2D array grid containing distinct elements in the range [0, n2 - 1]. | 29ms Ω(n²) |  18.14MB O(1) | done  | https://leetcode.com/problems/design-neighbor-sum-service/description/?envType=problem-list-v2&envId=array |
+
+
+
+
