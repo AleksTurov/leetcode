@@ -29,6 +29,9 @@
 |Arrays| 2011 | [Final Value of Variable After Performing Operations](final_value_variable_performing_operations.py) | There is a programming language with only four operations and one variable X: | 0ms O(N) |  12,35MB O(1) | done  | https://leetcode.com/problems/final-value-of-variable-after-performing-operations/|
 |Arrays| 14 | [Longest Common Prefix](longest_common_prefix.py) | Write a function to find the longest common prefix string amongst an array of strings. | 0ms O(Nlogn+M) |  17.88MB O(1) | done  | https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=array|
 |Arrays| 3242 | [Design Neighbor Sum Service](design_neighbor_sum_service.py) | You are given a n x n 2D array grid containing distinct elements in the range [0, n2 - 1]. | 29ms Ω(n²) |  18.14MB O(1) | done  | https://leetcode.com/problems/design-neighbor-sum-service/description/?envType=problem-list-v2&envId=array |
+|Arrays| 66 | [Plus One](plus_one.py) | You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's. | 0ms O(N) |  17.74MB O(1) | done  | https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=array |
+|Arrays| 118 | [Pascal's Triangle](pascal_triangle.py) | Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it as shown: | 0ms O(Numrows2) |  17.92MB O(numRows²) | done  | https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=array |
+
 
 
 
